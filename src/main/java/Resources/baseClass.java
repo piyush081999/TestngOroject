@@ -18,7 +18,7 @@ public class baseClass {
 		
 		// to read the properties file
 		FileInputStream fis = new FileInputStream ("C:\\Users\\Piyus\\eclipse-workspace\\selenium19thsepTsetNGProject\\src\\main\\java\\Resources\\data.properties");
-		
+		//rrrrrrr
 		
 		// to access the properties
 		Properties prop =new Properties();
