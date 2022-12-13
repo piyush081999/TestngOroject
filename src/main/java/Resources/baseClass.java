@@ -15,7 +15,7 @@ public class baseClass {
 	
 	public void browserInitalization() throws IOException {
 		
-		
+		//added by Surabh
 		// to read the properties file
 		FileInputStream fis = new FileInputStream ("C:\\Users\\Piyus\\eclipse-workspace\\selenium19thsepTsetNGProject\\src\\main\\java\\Resources\\data.properties");
 		//rrrrrrr
