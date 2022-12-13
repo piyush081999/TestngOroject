@@ -24,8 +24,8 @@ public class loginTestCase extends baseClass {
 	LPO.EnterPassWord().sendKeys("resr12");
 	
 	LPO.ClickOnLogin().click();
-	
-	/*SoftAssert assertion = new SoftAssert();
+	/*
+	SoftAssert assertion = new SoftAssert();
 	
 	String Actual= 
 			
@@ -35,7 +35,7 @@ public class loginTestCase extends baseClass {
 	
 	assertion.assertAll();
 	}
-	
 	*/
+	
 	}	
 }
