@@ -36,6 +36,8 @@ public WebElement  enterLastName() {
 		return driver.findElement(LastName);
 	}
 
+//new line aded by piyush 
+
 public WebElement  enterEmail() {
 	
 	return driver.findElement(Email);
